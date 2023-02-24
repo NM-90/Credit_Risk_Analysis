@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Purpose well defined
+Applying machine learning to solve credit card risk.  I will be using different techniques to train and evaluate models and unbalanced classes.  
 
 ## Results
 
